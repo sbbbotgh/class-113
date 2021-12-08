@@ -7,7 +7,7 @@ canvas = createCanvas(600,600);
 canvas.position(110,250);
 vid = createCapture(VIDEO);
 vid.hide();
-tint_c = "";;
+tint_c = "";
 }
 
 function draw(){
